@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;ems-bankend&apos;&#x0D;&#x0A;- Original project: &apos;ems-bankend&apos;&#x0D;&#x0A;- Original element: &apos;ems-bankend/src/main/java/com.udhay.ems.dto&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.udhay.ems.dto" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1742832176687" subPackages="false" version="1.0"/>
+</session>
